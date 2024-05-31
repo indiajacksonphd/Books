@@ -7,9 +7,9 @@ While all of my books are free, I'm happy to take any donations for the hardwork
 Buy Me A Coffee: 
 
 https://buymeacoffee.com/indiajacksonphd
+
 <img src="https://github.com/indiajacksonphd/Books/assets/110256537/d02e4939-8943-448c-bcae-28f3260c78cc" alt="bmc_qr" width="300" height="300">
 
-![bmc_qr](https://github.com/indiajacksonphd/Books/assets/110256537/d02e4939-8943-448c-bcae-28f3260c78cc)
 
 CashApp:
 https://cash.app/$IndiaATL
