@@ -14,6 +14,7 @@ https://buymeacoffee.com/indiajacksonphd
 CashApp:
 https://cash.app/$IndiaATL
 
+<img src="https://github.com/indiajacksonphd/Books/assets/110256537/040c97e3-2bb0-4060-bc48-6fb442d68352" alt="cashapp_qr" width="300" height="300">
 
 Venmo:
 
