@@ -7,6 +7,8 @@ While all of my books are free, I'm happy to take any donations for the hardwork
 Buy Me A Coffee: 
 
 https://buymeacoffee.com/indiajacksonphd
+<img src="https://github.com/indiajacksonphd/Books/assets/110256537/d02e4939-8943-448c-bcae-28f3260c78cc" alt="bmc_qr" width="300" height="300">
+
 ![bmc_qr](https://github.com/indiajacksonphd/Books/assets/110256537/d02e4939-8943-448c-bcae-28f3260c78cc)
 
 CashApp:
@@ -20,7 +22,6 @@ Venmo:
 ### May 31, 2024: The Science Behind the Zodiac Constellations
 
 ## Creative Commons Attribution 4.0 International
-
 
 
 <img width="660" alt="CC4 0_License" src="https://github.com/indiajacksonphd/Books/assets/110256537/c69a250d-d171-4351-9ac8-8ee52e9d8294">
